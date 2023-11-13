@@ -17,9 +17,7 @@ A Boilerplate is already set up for you with everything you will need to get sta
 * [Knex.js](https://knexjs.org/)
 * [Sass](https://sass-lang.com/)
 
-The migration and seeds for the users table, and all login functionality is already set up!
-
-The mobile responsiveness is also being handled by some neat JS and Sass classes, be sure to incorporate that view in your project goals!
+What else have you set up for the students here....... 
 
 ## User Stories
 
